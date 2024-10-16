@@ -1,0 +1,13 @@
+Date,Type,BUY Time,BUY Price,BUY Pattern,Earning(%),SL Price,TP Price,SELL Time,SELL Price,SELL Pattern,Chance,BUY2 Time,2nd Time,2nd Price,2nd Pattern,2nd Earning(%),2nd Chance,Total Earning(%),Final Chance
+2024-09-09,PUT,10:20:00,105.2805239,Long-Long-Green-Red,-0.60784,106.29,99.221,15:55:00,105.9204663,Long-Upper-Green-Red,0,0.0,None,0.0,Long-Upper-Green-Red,0,-1,-0.60784,0
+2024-09-11,P-NULL,09:55:00,109.8401135,Long-Long-Red-Red,-1.8753,111.9,97.481,12:10:00,111.8999281,Long-Bottom-Green-Red,0,111.5699578,None,0.0,Long-Bottom-Green-Red,0,-1,-1.8753,0
+2024-09-12,P-CALL,09:50:00,116.68,Long-Long-Green-Red,-1.2427,118.13,107.98,10:00:00,118.13,Long-Long-Green-Green,0,118.2601,15:55:00,119.112,Long-Bottom-Red-Red,2.0843,1,0.84162,1
+2024-09-13,PUT,09:50:00,118.65,Long-Long-Red-Red,-0.27391,119.93,110.97,15:55:00,118.975,Upper-Long-Green-Green,0,0.0,None,0.0,Upper-Long-Green-Green,0,-1,-0.27391,0
+2024-09-17,C-NULL,10:05:00,117.71,Long-Long-Green-Green,-0.73061,116.85,122.87,12:20:00,116.85,Bottom-Long-Red-Red,0,116.9499,None,0.0,Bottom-Long-Red-Red,0,-1,-0.73061,0
+2024-09-23,C-PUT,09:50:00,116.71,Upper-Long-Green-Green,-1.0796,115.45,124.27,10:40:00,115.45,Long-Long-Red-Red,0,115.282401,12:00:00,116.24,Long-Bottom-Green-Red,-0.83065,0,-1.9103,0
+2024-09-26,PUT,09:50:00,126.33,Long-Long-Red-Red,1.9394,127.28,120.63,15:55:00,123.88,Long-Upper-Green-Red,1,0.0,None,0.0,Long-Upper-Green-Red,0,-1,1.9394,1
+2024-10-02,CALL,10:00:00,117.13,Upper-Long-Green-Green,1.7673,117.13,125.89,15:55:00,119.2,Upper-Upper-Green-Red,1,0.0,None,0.0,Upper-Upper-Green-Red,0,-1,1.7673,1
+2024-10-03,P-CALL,11:00:00,122.36,Long-Long-Green-Red,-0.65381,123.16,117.56,11:50:00,123.16,Long-Long-Green-Red,0,122.98,11:55:00,123.31,Long-Long-Red-Green,0.26834,1,-0.38547,0
+2024-10-07,P-CALL,09:55:00,125.91,Long-Long-Green-Red,-0.90541,127.05,119.07,10:30:00,127.05,Upper-Long-Green-Green,0,127.245,10:50:00,126.52,Bottom-Upper-Red-Red,-0.56977,0,-1.4752,0
+2024-10-10,CALL,10:00:00,132.83,Upper-Long-Green-Green,1.4605,132.83,140.39,15:55:00,134.77,Long-Long-Green-Green,1,0.0,None,0.0,Long-Long-Green-Green,0,-1,1.4605,1
+2024-10-14,P-NULL,11:30:00,138.02,Bottom-Long-Green-Red,-0.47819,138.68,136.04,13:30:00,138.68,Upper-Bottom-Green-Green,0,138.59,None,0.0,Upper-Bottom-Green-Green,0,-1,-0.47819,0
