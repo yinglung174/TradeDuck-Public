@@ -335,21 +335,21 @@ To-do list
 2. discover another strategy by buying both sides for higher pattern chance
 3. try to combine both strategies with different market trend
 
-10/27/2024 update:
+9/27/2024 update:
 ------------------------------------
 To-do list 
 1. study sentiment analysis with machine learning
 2. filter meaningless keywords manually for higher accuracy
 3. maintain the existing trading system (instant function)
 
-10/28/2024 update:
+9/28/2024 update:
 ------------------------------------
 To-do list 
 1. discover options debit spread methods
 2. research on higher reward with lower risk method with acceptable lower accuracy
 3. continue on sentiment analysis
 
-10/29/2024 update:
+9/29/2024 update:
 ------------------------------------
 To-do list 
 1. re-backtest the existing trading system
