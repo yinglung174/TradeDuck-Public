@@ -1,5 +1,6 @@
-# automated-trading-system-US
+![image](https://github.com/user-attachments/assets/7ea9f8e5-ecf2-44e9-b5e3-907834220746)# automated-trading-system-US
 Automated trading system for US market
+![image](https://github.com/user-attachments/assets/2d4a4238-7d97-4698-b3bd-0301dbd0d0df)
 
 
 10/24/2023 Update:
